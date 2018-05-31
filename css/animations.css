@@ -1,0 +1,19 @@
+    
+@keyframes fadeInUp{
+    0%{
+     transform:scale(0); 
+    }
+     100%{
+        transform:scale(1);
+    }
+   
+}
+.profile-grid{
+    animation-name: fadeInUp;
+    nimation-duration: 1s;
+    animation-timing-function: linear;
+    animation-delay: s;
+    animation-direction:;
+    animation-iteration-count: ;
+    animation-fill-mode: forwards;
+}
